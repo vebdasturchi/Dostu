@@ -1,0 +1,2 @@
+# Dostu
+Boshqalar tahrirlashi uchun
